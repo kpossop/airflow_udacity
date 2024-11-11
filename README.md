@@ -1,6 +1,4 @@
 
-markdown
-Copiar código
 # 📢 **Importante**
 
 Lo contenido en este repositorio de GitHub es una réplica del proyecto que se desarrolló en el espacio de trabajo proporcionado por Udacity para el modulo de AUTOMATE DATA PIPELINES . Todos los servicios de Airflow fueron levantados, desarrollados y ejecutados en dicho entorno de trabajo.
